@@ -27,9 +27,7 @@
       }
     },
     "extensionId": "translate",
-    "arch": [
-      "*"
-    ],
+    "arch": null,
     "iconURL": "./assets/translate.png",
     "description": {
       "formatMessage": {
