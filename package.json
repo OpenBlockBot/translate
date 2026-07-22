@@ -44,7 +44,7 @@
     "main": "./src/translate.js",
     "translations": "./src/translations.js",
     "tags": [
-      "scratch"
+      "other"
     ],
     "helpLink": "https://wiki.openblock.cc"
   },
