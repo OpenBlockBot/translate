@@ -23,16 +23,16 @@ export default {
             'translate.description': 'Translate text into many languages.'
         },
         'ru': {
-            'translate.name': 'Перевести',
-            'translate.description': 'Переводи текст на другие языки.'
+            'translate.name': 'Translate',
+            'translate.description': 'Translate text into many languages.'
         },
         'zh-cn': {
-            'translate.name': '翻译',
-            'translate.description': '把文字翻译成多种语言。'
+            'translate.name': 'Translate',
+            'translate.description': 'Translate text into many languages.'
         },
         'zh-tw': {
-            'translate.name': '翻譯',
-            'translate.description': '將文字訊息翻譯為各國語言。'
+            'translate.name': 'Translate',
+            'translate.description': 'Translate text into many languages.'
         }
     },
     'extensions': {
@@ -43,22 +43,22 @@ export default {
             'translate.viewerLanguage': 'language'
         },
         'ru': {
-            'translate.categoryName': 'Перевести',
-            'translate.translateBlock': 'перевести [WORDS] на [LANGUAGE]',
+            'translate.categoryName': 'Translate',
+            'translate.translateBlock': 'translate [WORDS] to [LANGUAGE]',
             'translate.defaultTextToTranslate': 'привет',
-            'translate.viewerLanguage': 'язык'
+            'translate.viewerLanguage': 'language'
         },
         'zh-cn': {
-            'translate.categoryName': '翻译',
-            'translate.translateBlock': '将 [WORDS] 译为 [LANGUAGE]',
+            'translate.categoryName': 'Translate',
+            'translate.translateBlock': 'translate [WORDS] to [LANGUAGE]',
             'translate.defaultTextToTranslate': '你好',
-            'translate.viewerLanguage': '访客语言'
+            'translate.viewerLanguage': 'language'
         },
         'zh-tw': {
-            'translate.categoryName': '翻譯',
-            'translate.translateBlock': '文字 [WORDS] 翻譯成 [LANGUAGE]',
+            'translate.categoryName': 'Translate',
+            'translate.translateBlock': 'translate [WORDS] to [LANGUAGE]',
             'translate.defaultTextToTranslate': 'hello',
-            'translate.viewerLanguage': '瀏覽者的語言'
+            'translate.viewerLanguage': 'language'
         }
     },
     'blocks': {
